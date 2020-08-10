@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi i'm Mustapha 👋
+[![bg][banner]][linkedin]
 
-<!--
-**MustaphaAlioglou/MustaphaAlioglou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently go,python
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he/hee/trebuchet
+
+
+
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[banner]: https://raw.githubusercontent.com/MustaphaAlioglou/MustaphaAlioglou/master/Sun.jpg
+[instagram]: https://www.instagram.com/mustapha_sz/
+[linkedin]: https://www.linkedin.com/in/mustapha-alioglou/
