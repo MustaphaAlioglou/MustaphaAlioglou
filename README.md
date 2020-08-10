@@ -1,13 +1,7 @@
 ### Hi i'm Mustapha 👋
 [![bg][banner]][linkedin]
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently go,python
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: he/hee/trebuchet
 
 
