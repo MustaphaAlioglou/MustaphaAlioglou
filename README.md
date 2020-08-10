@@ -1,7 +1,7 @@
 ### Hi i'm Mustapha 👋
 [![bg][banner]][linkedin]
 
-- 🌱 I’m currently go,python
+- 🌱 I’m currently learning go,python
 - 😄 Pronouns: he/hee/trebuchet
 
 
