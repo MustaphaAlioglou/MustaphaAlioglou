@@ -2,9 +2,12 @@
 [![bg][banner]][linkedin]
 ![](https://vistr.dev/badge?repo=MustaphaAlioglou.MustaphaAlioglou)
 - 🌱 I’m currently learning go,python
-- 😄 Pronouns: he/hee/trebuchet
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MustaphaAlioglou&theme=radical&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustaphaAlioglou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
