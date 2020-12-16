@@ -1,5 +1,4 @@
 ### Hi i'm Mustapha 👋
-[![bg][banner]][linkedin]
 ![](https://vistr.dev/badge?repo=MustaphaAlioglou.MustaphaAlioglou)
 - 🌱 I’m currently learning go,python
 
