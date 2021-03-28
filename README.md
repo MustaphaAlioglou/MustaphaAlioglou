@@ -1,4 +1,4 @@
-![alt text](https://media-exp1.licdn.com/dms/image/C5616AQGaVtbTa5PvmA/profile-displaybackgroundimage-shrink_350_1400/0/1574949620142?e=1613606400&v=beta&t=9fpAlZtdGCeUzunpU-aIA2ZHGM0jeXSV1BFBRlJ_qRA)
+![alt text](https://raw.githubusercontent.com/MustaphaAlioglou/MustaphaAlioglou/master/Sun.jpg)
 ### Hi i'm Mustapha 👋
 ![](https://vistr.dev/badge?repo=MustaphaAlioglou.MustaphaAlioglou)
 - 🌱 I’m currently learning Go.
