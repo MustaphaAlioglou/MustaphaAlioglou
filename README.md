@@ -1,9 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/MustaphaAlioglou/MustaphaAlioglou/master/Sun.jpg)
 ### Hi i'm Mustapha 👋
 ![](https://vistr.dev/badge?repo=MustaphaAlioglou.MustaphaAlioglou)
-- 🌱 I’m currently learning React,Electron
-- Things to learn in the future
-- *Next.js
+- 🌱 Tech stack: React,Nextjs,Strapi
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MustaphaAlioglou&theme=calm&show_icons=true)
