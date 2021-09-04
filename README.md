@@ -10,6 +10,8 @@
 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 
 [banner]: https://raw.githubusercontent.com/MustaphaAlioglou/MustaphaAlioglou/master/Sun.jpg
 [instagram]: https://www.instagram.com/mustapha_sz/
