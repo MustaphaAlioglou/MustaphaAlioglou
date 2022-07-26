@@ -1,7 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/MustaphaAlioglou/MustaphaAlioglou/master/Sun.jpg)
 ### Hi i'm Mustapha 👋
 ![](https://vistr.dev/badge?repo=MustaphaAlioglou.MustaphaAlioglou)
-- 🌱 Tech stack: React,Nextjs,Strapi,mongoDB,Nestjs
+- 🌱 Tech stack: React,Nextjs,Strapi,mongoDB,Vue3,AspCore,PostgreSql,Docker,K8s,Nginx
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MustaphaAlioglou&theme=calm&show_icons=true)
